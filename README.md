@@ -1,18 +1,18 @@
 <h1>Things Covered here are:</h1>
 <br>
 
-Installing Laravel 6
-Creating Database and Reading Records
-Add a Record
-Edit and Delete a Record
-Validation
-Resource
-Token Authentication
-Basic Authentication
-OAuth2 Setup Passport
-OAuth2 Implementation
-Pagination
-Download and Upload File.
+Installing Laravel 6 <br>
+Creating Database and Reading Records <br>
+Add a Record <br>
+Edit and Delete a Record <br>
+Validation <br>
+Resource <br>
+Token Authentication <br>
+Basic Authentication <br>
+OAuth2 Setup Passport <br>
+OAuth2 Implementation <br>
+Pagination <br>
+Download and Upload File. <br>
 
 
 
