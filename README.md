@@ -1,3 +1,23 @@
+<h1>Things Covered here are:</h1>
+<br>
+
+Installing Laravel 6
+Creating Database and Reading Records
+Add a Record
+Edit and Delete a Record
+Validation
+Resource
+Token Authentication
+Basic Authentication
+OAuth2 Setup Passport
+OAuth2 Implementation
+Pagination
+Download and Upload File.
+
+
+
+
+
 <p align="center"><img src="https://res.cloudinary.com/dtfbvvkyp/image/upload/v1566331377/laravel-logolockup-cmyk-red.svg" width="400"></p>
 
 <p align="center">
